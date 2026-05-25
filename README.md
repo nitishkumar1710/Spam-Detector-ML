@@ -1,25 +1,25 @@
-# Spam / Not Spam Detector
+# Spam / Not Spam Detector.
 
-## Overview
+## Overview.
 A machine learning project that classifies messages as spam or genuine using NLP and ML algorithms.
 
-## Features
+## Features.
 - Text preprocessing
 - Feature extraction
 - Spam detection
 - Model evaluation and comparison
 
-## Algorithms Used
+## Algorithms Used.
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Logistic Regression
 
-## Tech Stack
+## Tech Stack.
 - Python
 - Scikit-learn
 - Machine Learning
 - NLP
 
-## Future Improvements
+## Future Improvements.
 - Deep learning integration
 - Real-time prediction API
